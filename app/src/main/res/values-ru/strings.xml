@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Приветствие</string>
+    <string name="app_name">Приветствие.</string>
     <string name="Hello_world">Привет мир!</string>
     <string name="button_for_test">Тестовая кнопка</string>
 </resources>
